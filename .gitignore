@@ -1,0 +1,19 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+*.sdf
+*.opensdf
+*.user
+*.userprefs
+*.xcodeproj/project.xcworkspace/
+
